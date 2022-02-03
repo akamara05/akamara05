@@ -10,5 +10,5 @@ My previous career was in public accounting where I worked 5.5 years both in ext
 
 ### __Find me on the internet somewhere:__
 * Publicly learning by participating in the #100DaysofCode challenge on [Twitter](https://twitter.com/Sincerely_Ai/status/1460353791547609097) ✍🏽
-* Sharing updates on LinkedIn[LinkedIn](https://www.linkedin.com/in/aisha-kamara-905/) 💼
+* Sharing updates on [LinkedIn](https://www.linkedin.com/in/aisha-kamara-905/) 💼
 
