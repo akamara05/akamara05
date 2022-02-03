@@ -5,9 +5,10 @@ I'm currently based in Maryland, but I grew up in the South Pacific and spent al
 My previous career was in public accounting where I worked 5.5 years both in external and internal audit (consulting) for big 4 companies as well as a mid-sized firm in NYC and the DMV. This experience gave me insights across various industries particularly higher education, where I conducted several audits, at times simultaneously, of federally funded Universities and their financial aid programs. As a consultant in internal audit, my work was more varied, but what remained consistent regardless of client or industry, was the need to understand and factually document through text and visual flowcharts, the business processes of the client/company’s various departments. This allowed for clear evaluation, identification, and communication of potential compliance/ or operational risks to any of their existing processes. The communication and relationship building skills, as well as my ability to work within cross functional teams, I know will serve me immensely in any workplace regardless of industry. 
 
 ### __Technical Skills:__ 
-💻 Excel| Python | SQL 
+💻 📊 Excel| Python | SQL 
+
 
 ###__Find me on the internet somewhere:__
-* Openly learning by participating in the #100DaysofCode challenge on Twitter 
-* Sharing updates on LinkedIn
+* Publicly learning by participating in the #100DaysofCode challenge on [Twitter](https://twitter.com/Sincerely_Ai/status/1460353791547609097) ✍🏽
+* Sharing updates on LinkedIn[LinkedIn](https://www.linkedin.com/in/aisha-kamara-905/) 💼
 
